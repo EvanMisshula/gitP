@@ -3,3 +3,6 @@
 ## Contributors
 
 -   Evan Misshula
+
+
+- Richie Lin
